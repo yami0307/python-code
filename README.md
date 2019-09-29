@@ -1,4 +1,4 @@
-![Assignment Logo](logo.jpg)
+![Assignment Logo](logo-assign.jpg)
 # python-code
 
 ![Version Details](https://img.shields.io/badge/version-1.0-brightgreen.svg)
